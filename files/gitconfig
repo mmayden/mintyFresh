@@ -1,6 +1,6 @@
 [user]
-	name = mmayden
-	email = mmayden@gmail.com
+  name = mmayden
+  email = mmayden@gmail.com
 [alias]
   cia = commit -av
   ci = commit -v
@@ -8,9 +8,9 @@
   ll = log --graph --all --oneline --decorate
   st = status
 [core]
-	autocrlf = input
+  autocrlf = input
   #excludesfile = /Users/michaelglenney/.gitignore
 [color]
-	ui = auto
+  ui = auto
 [push]
-	default = simple
+  default = simple

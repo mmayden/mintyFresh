@@ -21,7 +21,7 @@ apt-get install vim -y
 mkdir -p "$HOME/bin"
 
 # Create vim config file (.vimrc)
-cp .files/vimrc "$HOME/.vimrc"
+cp ./files/vimrc "$HOME/.vimrc"
 chmod 0600 "$HOME/.vimrc"
 
 # Copy in background image
